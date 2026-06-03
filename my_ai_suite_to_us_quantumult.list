@@ -19,6 +19,7 @@ HOST-SUFFIX,oaiusercontent.com,AI Suite
 HOST-SUFFIX,anthropic.com,AI Suite
 HOST-SUFFIX,claude.ai,AI Suite
 HOST-SUFFIX,claudeusercontent.com,AI Suite
+HOST-SUFFIX,claude.com,AI Suite
 
 # > Cloudflare AI Gateway,AI Suite
 HOST,gateway.ai.cloudflare.com,AI Suite
