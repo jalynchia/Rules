@@ -4,6 +4,7 @@
 HOST-SUFFIX,ai.com,AI Suite
 HOST-SUFFIX,chatgpt.com,AI Suite
 HOST-SUFFIX,openai.com,AI Suite
+HOST-SUFFIX,chat.com,AI Suite
 
 # > Chat GPT API & CDN
 HOST,chat.openai.com.cdn.cloudflare.net,AI Suite
